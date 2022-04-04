@@ -5,9 +5,9 @@ public class Forloop {
 		// TODO Auto-generated method stub
 		for (int row=1;row<=3;row++) 
 		{
-			for (int col=1;col<=3;col++) 
+			for (int col=1;col<=row;col++) 
 			{
-				System.out.println("* ");
+				System.out.print("* ");
 			}
 			System.out.println();
 		}
