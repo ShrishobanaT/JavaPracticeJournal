@@ -28,9 +28,7 @@ public class Decimal2Binary {
 	decimalno=decimalno/2;
 	}
 	System.out.print(binary);
-	}
-
-	
+	}	
 	}
 	
 
