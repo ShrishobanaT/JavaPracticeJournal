@@ -31,7 +31,7 @@ public class EvenNodd {
 			if(Num%2==0) {
 			System.out.println("Even Numbers:" +Num);
 			}
-			else 
+			else if (Num%2==1)
 			{
 				System.out.println("Odd Numbers:" +Num);
 			}
